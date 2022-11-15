@@ -1,0 +1,1 @@
+# Agricultural-Predictions-Using-Satellite-Imagery-and-NDVI
